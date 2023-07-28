@@ -1,12 +1,13 @@
 ﻿# MiniProject_01
 
+These are my page speed according to that site.
+![ScreenShot](readme.image/pagespeed_mobile.png)
 
-Logo
-Best-README-Template
-An awesome README template to jumpstart your projects!
-Explore the docs »
+![ScreenShot](readme.image/pagespeed_desktop.png)
 
-View Demo · Report Bug · Request Feature
+
+![ScreenShot](readme.image/w3.org_checker.png)
+
 
 Table of Contents
 About The Project
