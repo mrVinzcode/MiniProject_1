@@ -12,11 +12,3 @@
   color: #dc3545;
   font-weight: 600;
 }
-@media screen and (max-width: 375px) {
-  .navbar a {
-    float: none;
-    display: block;
-    width: 100%;
-    text-align: left;
-  }
-}
